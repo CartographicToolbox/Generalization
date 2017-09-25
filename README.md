@@ -1,0 +1,2 @@
+# Generalization
+Map generalization toolbox
